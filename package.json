@@ -18,6 +18,6 @@
   "homepage": "https://github.com/fin-hypergrid/fin-hypergrid-combobox-cell-editor#readme",
   "dependencies": {
     "extend-me": "^2.3",
-    "fin-hypergrid": "file:../fin-hypergrid"
+    "fin-hypergrid": "fin-hypergrid/core#alpha"
   }
 }
